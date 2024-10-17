@@ -1,0 +1,11 @@
+C:\Users\danielmieleniewski\source\repos\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\netcoreapp2.1\Operators Assignment Submission.csprojAssemblyReference.cache
+C:\Users\danielmieleniewski\source\repos\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\netcoreapp2.1\Operators Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\danielmieleniewski\source\repos\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\netcoreapp2.1\Operators Assignment Submission.AssemblyInfoInputs.cache
+C:\Users\danielmieleniewski\source\repos\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\netcoreapp2.1\Operators Assignment Submission.AssemblyInfo.cs
+C:\Users\danielmieleniewski\source\repos\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\netcoreapp2.1\Operators Assignment Submission.deps.json
+C:\Users\danielmieleniewski\source\repos\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\netcoreapp2.1\Operators Assignment Submission.runtimeconfig.json
+C:\Users\danielmieleniewski\source\repos\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\netcoreapp2.1\Operators Assignment Submission.runtimeconfig.dev.json
+C:\Users\danielmieleniewski\source\repos\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\netcoreapp2.1\Operators Assignment Submission.dll
+C:\Users\danielmieleniewski\source\repos\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\netcoreapp2.1\Operators Assignment Submission.pdb
+C:\Users\danielmieleniewski\source\repos\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\netcoreapp2.1\Operators Assignment Submission.dll
+C:\Users\danielmieleniewski\source\repos\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\netcoreapp2.1\Operators Assignment Submission.pdb
